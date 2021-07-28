@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi everyone, my name is Matteo. 🙋🏽‍♂️  I am a Biomedical and Software Engineer who loves application development. 👨🏽‍⚕️👨🏽‍💻 I would like to share with some Android and Kotlin contributions.
+Hi everyone, my name is Matteo. 🙋🏽‍♂️  I am a Biomedical and Software Engineer who loves application development. 👨🏽‍⚕️👨🏽‍💻 I would like to share with you some Android and Kotlin contributions.
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=A5BE00)
